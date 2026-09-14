@@ -31,14 +31,14 @@
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
-    "@noble/curves": "2.2.0",
+    "@noble/curves": "2.4.0",
     "@wetdrool/config": "workspace:*",
     "@wetdrool/protocol": "workspace:*",
     "@wetdrool/rate-limit": "workspace:*",
     "bs58": "6.0.0",
     "json-canonicalize": "2.0.0",
-    "ws": "8.21.1",
-    "zod": "4.4.3"
+    "ws": "8.21.3",
+    "zod": "4.6.2"
   },
   "devDependencies": {
     "@types/node": "22.20.1",
