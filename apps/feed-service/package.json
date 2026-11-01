@@ -21,7 +21,7 @@
     "@wetdrool/config": "workspace:*",
     "@wetdrool/rate-limit": "workspace:*",
     "fastify": "5.10.0",
-    "zod": "4.4.3"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@types/node": "22.20.1",
