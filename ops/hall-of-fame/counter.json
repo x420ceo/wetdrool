@@ -1,7 +1,7 @@
 {
   "schema": "wetdrool.hall_of_fame.v1",
-  "total_heartbeats": 1123,
-  "unique_utc_days": 93,
+  "total_heartbeats": 1124,
+  "unique_utc_days": 94,
   "days": [
     "2026-08-04",
     "2026-08-05",
@@ -95,10 +95,11 @@
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
-    "2026-11-04"
+    "2026-11-04",
+    "2026-11-05"
   ],
-  "last_heartbeat_utc": "2026-11-04T21:52:56Z",
-  "last_run_id": "41920162045",
+  "last_heartbeat_utc": "2026-11-05T01:54:51Z",
+  "last_run_id": "41951673990",
   "branch": "hall-of-fame",
   "note": "Automated push cadence for Hall of Fame ledger. Application code ships on main separately."
 }
